@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3>Hi there 👋</h3>
+<h2>I'm <span style="color: #1890ff; font-weight:800">Tahir Ahmed<span></h2>
+
+
+- Currently working as Associate 2 at [Pricewaterhouse Coopers](https://www.pwc.com/)
+- Love to build frontend with React 
+- Graduated in 2018 from [NMIT](https://nmit.ac.in/) with Bachelors of Engineering in Computer Science and Engineering
+
+---
 
 <!--
 **ttahm3d/ttahm3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
